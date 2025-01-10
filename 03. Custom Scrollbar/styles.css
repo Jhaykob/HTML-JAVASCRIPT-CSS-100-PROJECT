@@ -7,9 +7,7 @@
 
 body{
     background: crimson;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    
 }
 
 .card{
@@ -18,7 +16,7 @@ body{
     padding: 20px;
     margin: 20px;
     font-family: sans-serif;
-    line-height: 20px;
+    line-height: 28px;
 }
 
 /* Scrollbar */
